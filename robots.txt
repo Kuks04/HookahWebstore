@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /pages/
+Disallow: /cart.php
+Disallow: /payment.php
+
+Sitemap: https://www.nargilashop222.com/sitemap.xml
