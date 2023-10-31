@@ -7,7 +7,7 @@ Mart 2023. - April 2023.
 
 What I did
 
-I developed this website from scratch, used a template for design, took all the 4K pictures with my Nikon D3100 and implemented SEO optimization for enhanced visibility.
+I developed backend from scratch, used a template for design, took all the 4K pictures with my Nikon D3100 and implemented SEO optimization for enhanced visibility.
 
 Summary
 
