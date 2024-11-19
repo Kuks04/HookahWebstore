@@ -13,4 +13,4 @@ Summary
 
 This project sold a lot of my client products online making him very satisfied. This project also demonstrates my ability to make a webstore in PHP and MySQL, highlighting my web development and database management skills. Focus was on functionality, design was a template.
 
-<b>This webshop is unactive because my client has closed his shop. However, I kept the website on cheap hosting, so the website is lagging a bit because of that.</b>
+<b>This webshop is unactive because my client has closed his shop.</b>
